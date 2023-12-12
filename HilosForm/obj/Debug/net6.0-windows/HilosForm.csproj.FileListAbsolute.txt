@@ -1,0 +1,34 @@
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.exe
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.deps.json
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.runtimeconfig.json
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.dll
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.pdb
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.AssemblyReference.cache
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.frmHilos.resources
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.GenerateResource.cache
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.AssemblyInfoInputs.cache
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.AssemblyInfo.cs
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.CoreCompileInputs.cache
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.dll
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\refint\HilosForm.dll
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.pdb
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.genruntimeconfig.cache
+C:\Users\GM\Desktop\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\ref\HilosForm.dll
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.exe
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.deps.json
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.runtimeconfig.json
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.dll
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\bin\Debug\net6.0-windows\HilosForm.pdb
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.AssemblyReference.cache
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.frmHilos.resources
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.GenerateResource.cache
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.AssemblyInfoInputs.cache
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.AssemblyInfo.cs
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.csproj.CoreCompileInputs.cache
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.dll
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\refint\HilosForm.dll
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.pdb
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\HilosForm.genruntimeconfig.cache
+E:\UTN\2ºC 2022\Laboratorio 2\UTN\HilosForm\HilosForm\obj\Debug\net6.0-windows\ref\HilosForm.dll
